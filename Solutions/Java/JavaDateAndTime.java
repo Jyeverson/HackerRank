@@ -3,6 +3,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.text.DateFormatSymbols;
 import java.util.Calendar;
 import java.util.Locale;
 
@@ -19,9 +20,9 @@ public class JavaDateAndTime {
 
     public static String findDay(int month, int day, int year) {
         Calendar calendar = Calendar.getInstance();
-        calendar.set(month, day, year);
-        return calendar.getDisplayName(Calendar.DAY_OF_WEEK, Calendar.LONG, Locale.US).toUpperCase();
-
+        calendar.set(year, month - 1, day);
+        int dayWeek = calendar.get(Calendar.DAY_OF_WEEK);
+        return new DateFormatSymbols().getWeekdays()[dayWeek].toUpperCase();
     }
 }
 
