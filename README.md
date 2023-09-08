@@ -16,7 +16,7 @@
 |        Strings         | [Java Substring Comparisons](https://www.hackerrank.com/challenges/java-string-compare)                                                       		 		| [JavaSubstringComparisons.java](https://github.com/Jyeverson/HackerRank/blob/main/Solutions/Java/JavaSubstringComparisons.java)                         				 		|       											           |
 |        Strings         | [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams)                                                       		 		| [JavaAnagrams.java](https://github.com/Jyeverson/HackerRank/blob/main/Solutions/Java/JavaAnagrams.java)                         				 		|       											           |
 |        Estrutura de dados         | [Java Generics](https://www.hackerrank.com/challenges/java-generics)                                                       		 		| [JavaGenerics.java](https://github.com/Jyeverson/HackerRank/blob/main/Solutions/Java/JavaGenerics.java)                         				 		|       											           |
-|        Estrutura de dados         | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset)                                                       		 		| [JavaHashSet.java](https://github.com/Jyeverson/HackerRank/blob/main/Solutions/Java/JavaHashset.java)                         				 		|       											           |
+|        Estrutura de dados         | [Java Hashset](https://www.hackerrank.com/challenges/java-hashset)                                                       		 		| [JavaHashSet.java](https://github.com/Jyeverson/HackerRank/blob/main/Solutions/Java/JavaHashSet.java)                         				 		|       											           |
 
 
 
